@@ -24,8 +24,8 @@ Supports search by name, filter by ingredient, fetch meal details, and a random 
 
 ```bash
 # 1) Clone or download
-git clone https://github.com/vrushabh05/mealpilot-mcp.git
-cd mealpilot-mcp
+git clone https://github.com/MdChopda/MealPilot-MCP
+cd MealPilot-MCP
 
 # 2) (Optional) Create a virtualenv
 python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
